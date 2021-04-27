@@ -1,0 +1,83 @@
+.bg-violeta{
+    background-color: hsl(263, 89%, 35%);
+}
+
+.opacity-50{
+    opacity: .5;
+}
+
+.body{
+    background: lightgrey;
+}
+
+.bg-quotation{
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+    background-size: 135px;
+}
+
+
+
+
+.rounded-xlg{
+    border-radius: .5rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+
+
+
+
+.bg-blue{
+    background:hsl(318, 93%, 12%);
+}
+
+.card-dos{
+    font-size:18px;
+}
+
+.card-dos-p{
+    font-size:12px;
+}
+
+
+.bg-cardtres{
+    background:hsl(319, 56%, 89%);
+}
+
+
+
+.bg-blackish{
+    background:hsl(219, 29%, 14%);
+}
+
+
+.bg-whitedos{
+    background:hsl(319, 56%, 89%);
+}
+
+
+
+.card-3{
+    font-size: 13px;
+}
+
+
+.p-4{
+    padding-left: 0px !important;
+ }
+
+
+ 
